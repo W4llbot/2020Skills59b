@@ -3,16 +3,16 @@
 #define _GLOBALS_HPP_
 
 // base ports
-#define FLPort 11
-#define BLPort 12
-#define FRPort 19
-#define BRPort 18
+#define FLPort 19
+#define BLPort 1
+#define FRPort 20
+#define BRPort 10
 
 // mech ports
 #define rRollerPort 16
 #define lRollerPort 15
-#define indexerPort 6
-#define shooterPort 5
+#define indexerPort 2
+#define shooterPort 9
 
 //sensor ports
 #define encdL_port 1
